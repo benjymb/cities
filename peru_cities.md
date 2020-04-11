@@ -8,3 +8,10 @@
 - Huancayo
 - Cajamarca
 - Puerto Maldonado
+
+# Agregar Ciudades
+- Chimbote
+- Ica
+- Chiclayo
+- Tacna
+- Pucallpa
