@@ -8,6 +8,8 @@
 - Huancayo
 - Cajamarca
 - Puerto Maldonado
+- Puno
+- Ica 
 - Amazonas
 - Chiclayo
 - La libertad
