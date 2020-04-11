@@ -8,3 +8,7 @@
 - Huancayo
 - Cajamarca
 - Puerto Maldonado
+# Distritos de Lima
+- San Martin de Porres
+- Comas
+- lince 
