@@ -12,3 +12,10 @@
 - San Martin de Porres
 - Comas
 - lince 
+- Callao
+- Ventanilla
+# Comidas
+- arroz con pollo
+- tallarines
+- Ceviche
+- Pollito a la brasa
