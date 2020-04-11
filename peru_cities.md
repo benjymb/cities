@@ -8,5 +8,11 @@
 - Huancayo
 - Cajamarca
 - Puerto Maldonado
+- Amazonas
+- Chiclayo
+- La libertad
+- Ayacucho
+- Linux
 - Tacna
 - Tumbes
+
