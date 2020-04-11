@@ -9,3 +9,13 @@
 - Cajamarca
 - Puerto Maldonado
 - chimbote
+- Puno
+- Ica 
+- Amazonas
+- Chiclayo
+- La libertad
+- Ayacucho
+- Linux
+- Tacna
+- Tumbes
+
