@@ -10,4 +10,11 @@
 - Puerto Maldonado
 - Puno
 - Ica 
-- Cajamarca
+- Amazonas
+- Chiclayo
+- La libertad
+- Ayacucho
+- Linux
+- Tacna
+- Tumbes
+
