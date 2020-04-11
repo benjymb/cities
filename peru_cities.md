@@ -13,3 +13,6 @@
 - La libertad
 - Ayacucho
 - Linux
+- Tacna
+- Tumbes
+
