@@ -8,3 +8,6 @@
 - Huancayo
 - Cajamarca
 - Puerto Maldonado
+- Puno
+- Ica 
+- Cajamarca
