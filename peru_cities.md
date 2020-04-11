@@ -8,4 +8,5 @@
 - Huancayo
 - Cajamarca
 - Puerto Maldonado
-- Andahuaylas
+- Tacna
+- Tumbes
