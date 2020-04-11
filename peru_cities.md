@@ -10,3 +10,4 @@
 - Puerto Maldonado
 - Tacna
 - Tumbes
+- Chiclayo
