@@ -8,6 +8,7 @@
 - Huancayo
 - Cajamarca
 - Puerto Maldonado
+- chimbote
 - Puno
 - Ica 
 - Amazonas
